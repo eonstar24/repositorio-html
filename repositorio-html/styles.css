@@ -1,3 +1,23 @@
+
+  .style1{
+      color:blue;
+      text-align: left;
+      font-family: Comic sans MS
+}
+  .style2{
+        color:blue;
+        text-align: left;
+        font-family: Comic sans MS
+  }
+
+  .style3{
+        color:green;
+        text-align: left;
+        font-family: Comic sans MS
+  }
+  </style>
+
+
 body {
   background-color: white;
 }
